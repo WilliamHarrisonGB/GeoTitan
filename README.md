@@ -1,9 +1,9 @@
 # GeoTitan
 
-Quickly download geojsons from servers ( REST)
+Quickly download geojsons from servers (REST)
 
 ## Current Features
-Asynchronously download geojsons using queries from REST servers using result offsets.
+Asynchronously download geojsons using queries from ArcGIS REST servers using result offsets.
 
 ## Planned Features
 Download multiple geojsons at the same time (with the option to spread out concurrent tasks to not overload one single server)
